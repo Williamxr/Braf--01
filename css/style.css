@@ -48,10 +48,12 @@ body{
   text-decoration: none;
   color: #ffffff;
   font-size: 1.125em;
+  margin-left: 10px;
 }
 
 .menu-nav a:hover{
   background: #c17139;
+  border-radius: 5px;
 }
 
 @media(max-width:739px){
