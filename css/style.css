@@ -50,6 +50,10 @@ body{
   font-size: 1.125em;
 }
 
+.menu-nav a:hover{
+  background: #c17139;
+}
+
 @media(max-width:739px){
   .menu{
     text-align: center;
